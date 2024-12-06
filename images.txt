@@ -12,6 +12,6 @@ registry.k8s.io/ingress-nginx/controller:v1.11.2
 library/busybox:1.28.4
 library/busybox:1.28
 
-
+kubeoperator/kubepi-server:latest
 
 tractusx/ssi-credential-issuer-migrations:1.1.0
