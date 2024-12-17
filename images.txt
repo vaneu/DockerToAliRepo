@@ -14,6 +14,8 @@
 
 #kubeoperator/kubepi-server:latest
 
-docker.io/kubeoperator/kubepi-server:latest
+#docker.io/kubeoperator/kubepi-server:latest
+
+docker.io/tractusx/portal-iam:v4.0.0-alpha.1
 
 #tractusx/ssi-credential-issuer-migrations:1.1.0
