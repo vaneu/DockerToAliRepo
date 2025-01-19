@@ -17,6 +17,8 @@
 #docker.io/kubeoperator/kubepi-server:latest
 #docker.io/tractusx/portal-iam:v4.0.0-alpha.1
 #docker.io/tractusx/portal-processes-worker:v2.2.0
-docker.io/tractusx/portal-maintenance-service:v2.2.0
+#docker.io/tractusx/portal-maintenance-service:v2.2.0
+
+gitlab/gitlab-ce:17.8.0-ce.0
 
 #tractusx/ssi-credential-issuer-migrations:1.1.0
