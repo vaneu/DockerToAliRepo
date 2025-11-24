@@ -20,6 +20,11 @@
 #docker.io/tractusx/portal-maintenance-service:v2.2.0
 
 #gitlab/gitlab-ce:17.8.0-ce.0
-openjdk:21
+#openjdk:21
 
 #tractusx/ssi-credential-issuer-migrations:1.1.0
+
+tractusx/edc-runtime-memory:0.11.1
+tractusx/edc-controlplane-postgresql-hashicorp-vault:0.11.1
+tractusx/edc-dataplane-hashicorp-vault:0.11.1
+
