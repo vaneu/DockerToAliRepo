@@ -24,7 +24,11 @@
 
 #tractusx/ssi-credential-issuer-migrations:1.1.0
 
-tractusx/edc-runtime-memory:0.11.1
-tractusx/edc-controlplane-postgresql-hashicorp-vault:0.11.1
-tractusx/edc-dataplane-hashicorp-vault:0.11.1
+#tractusx/edc-runtime-memory:0.11.1
+#tractusx/edc-controlplane-postgresql-hashicorp-vault:0.11.1
+#tractusx/edc-dataplane-hashicorp-vault:0.11.1
 
+eipwork/kuboard-agent
+questdb/questdb:6.0.5
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3
