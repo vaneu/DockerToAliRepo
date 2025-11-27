@@ -12,9 +12,9 @@
 #library/busybox:1.28.4
 #library/busybox:1.28
 
-#kubeoperator/kubepi-server:latest
+#kubeoperator/kubeoperator-server:latest
 
-#docker.io/kubeoperator/kubepi-server:latest
+#docker.io/kubeoperator/kubeoperator-server:latest
 #docker.io/tractusx/portal-iam:v4.0.0-alpha.1
 #docker.io/tractusx/portal-processes-worker:v2.2.0
 #docker.io/tractusx/portal-maintenance-service:v2.2.0
