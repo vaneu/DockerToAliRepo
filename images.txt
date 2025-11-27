@@ -29,8 +29,8 @@
 
 
 #my
-gitlab/gitlab-ce:17.8.0-ce.0
-openjdk:21
+#gitlab/gitlab-ce:17.8.0-ce.0
+#openjdk:21
 mysql:8.0.44
 mysql:9.5.0
 nginx:stable
