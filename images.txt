@@ -19,8 +19,7 @@
 #docker.io/tractusx/portal-processes-worker:v2.2.0
 #docker.io/tractusx/portal-maintenance-service:v2.2.0
 
-#gitlab/gitlab-ce:17.8.0-ce.0
-#openjdk:21
+
 
 #tractusx/ssi-credential-issuer-migrations:1.1.0
 
@@ -28,7 +27,11 @@
 #tractusx/edc-controlplane-postgresql-hashicorp-vault:0.11.1
 #tractusx/edc-dataplane-hashicorp-vault:0.11.1
 
-#eipwork/kuboard-agent
-#questdb/questdb:6.0.5
-#eipwork/etcd-host:3.4.16-2
-#eipwork/kuboard:v3
+
+#my
+gitlab/gitlab-ce:17.8.0-ce.0
+openjdk:21
+mysql:8.0.44
+mysql:9.5.0
+nginx:stable
+redis:8.4.0
