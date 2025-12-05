@@ -3,9 +3,9 @@
 #calico/kube-controllers:v3.28.1
 #calico/node:v3.28.1
 #coredns/coredns:1.10.1
-#cdkbot/hostpath-provisioner:1.5.0
-#kubernetesui/dashboard:v2.7.0
-#kubernetesui/metrics-scraper:v1.0.8
+cdkbot/hostpath-provisioner:1.5.0
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
 registry.k8s.io/metrics-server/metrics-server:v0.6.3
 #registry.k8s.io/pause:3.10
 #registry.k8s.io/ingress-nginx/controller:v1.11.2
