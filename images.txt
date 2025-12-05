@@ -12,8 +12,7 @@
 #library/busybox:1.28.4
 #library/busybox:1.28
 
-
-kubeoperator/kubeoperator-server
+kubeoperator/kubepi-server
 #1panel/kubepi:v1.9.0
 
 #docker.io/kubeoperator/kubeoperator-server:latest
