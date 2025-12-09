@@ -12,7 +12,7 @@ registry.k8s.io/ingress-nginx/controller:v1.11.5
 #library/busybox:1.28.4
 #library/busybox:1.28
 
-kubeoperator/kubepi-server
+#kubeoperator/kubepi-server
 #1panel/kubepi:v1.9.0
 
 #docker.io/kubeoperator/kubeoperator-server:latest
@@ -27,7 +27,7 @@ kubeoperator/kubepi-server
 #tractusx/edc-runtime-memory:0.11.1
 #tractusx/edc-controlplane-postgresql-hashicorp-vault:0.11.1
 #tractusx/edc-dataplane-hashicorp-vault:0.11.1
-
+hashicorp/vault:1.15.2
 
 #my
 #gitlab/gitlab-ce:17.8.0-ce.0
