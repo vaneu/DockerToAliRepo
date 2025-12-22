@@ -22,7 +22,8 @@
 #docker.io/tractusx/portal-iam:v4.0.0-alpha.1
 #docker.io/tractusx/portal-processes-worker:v2.2.0
 #docker.io/tractusx/portal-maintenance-service:v2.2.0
-
+hashicorp/vault:1.20.4
+hashicorp/vault-k8s:1.7.0
 
 
 #tractusx/ssi-credential-issuer-migrations:1.1.0
@@ -30,7 +31,7 @@
 #tractusx/edc-runtime-memory:0.11.2
 #tractusx/edc-controlplane-postgresql-hashicorp-vault:0.11.2
 #tractusx/edc-dataplane-hashicorp-vault:0.11.2
-tractusx/mock-connector:0.11.2
+#tractusx/mock-connector:0.11.2
 #hashicorp/vault:1.15.2
 #bitnamilegacy/postgresql:16.2.0-debian-12-r10
 #bitnamilegacy/keycloak:25.0.6-debian-12-r0
