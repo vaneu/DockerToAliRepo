@@ -22,8 +22,9 @@
 #docker.io/tractusx/portal-iam:v4.0.0-alpha.1
 #docker.io/tractusx/portal-processes-worker:v2.2.0
 #docker.io/tractusx/portal-maintenance-service:v2.2.0
-hashicorp/vault:1.20.4
-hashicorp/vault-k8s:1.7.0
+#hashicorp/vault:1.20.4
+#hashicorp/vault-k8s:1.7.0
+hashicorp/vault:1.21.1
 
 
 #tractusx/ssi-credential-issuer-migrations:1.1.0
