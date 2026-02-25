@@ -24,7 +24,7 @@
 #docker.io/tractusx/portal-maintenance-service:v2.2.0
 #hashicorp/vault:1.20.4
 #hashicorp/vault-k8s:1.7.0
-hashicorp/vault:1.21.1
+#hashicorp/vault:1.21.1
 
 
 #tractusx/ssi-credential-issuer-migrations:1.1.0
@@ -44,3 +44,5 @@ hashicorp/vault:1.21.1
 #mysql:9.5.0
 #nginx:stable
 #redis:8.4.0
+
+docker.io/hwdsl2/ipsec-vpn-server:latest
