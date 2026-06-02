@@ -47,4 +47,6 @@ registry.k8s.io/ingress-nginx/controller:v1.13.8
 #redis:8.4.0
 
 #docker.io/hwdsl2/ipsec-vpn-server:latest
-hwdsl2/ipsec-vpn-server:debian
+#hwdsl2/ipsec-vpn-server:debian
+
+keking/kkfileview:4.4.0
