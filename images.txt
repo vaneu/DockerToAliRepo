@@ -50,4 +50,4 @@ registry.k8s.io/ingress-nginx/controller:v1.13.8
 #hwdsl2/ipsec-vpn-server:debian
 
 
-keking/kkfileview:4.4.0
+ymlisoft/kkfileview:4.4.0-12
