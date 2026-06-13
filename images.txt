@@ -32,7 +32,9 @@ registry.k8s.io/ingress-nginx/controller:v1.13.8
 
 #tractusx/edc-runtime-memory:0.11.2
 #tractusx/edc-controlplane-postgresql-hashicorp-vault:0.11.2
+tractusx/edc-controlplane-postgresql-hashicorp-vault:0.12.1
 #tractusx/edc-dataplane-hashicorp-vault:0.11.2
+tractusx/edc-dataplane-hashicorp-vault:0.12.1
 #tractusx/mock-connector:0.11.2
 #hashicorp/vault:1.15.2
 #bitnamilegacy/postgresql:16.2.0-debian-12-r10
@@ -52,4 +54,4 @@ registry.k8s.io/ingress-nginx/controller:v1.13.8
 
 #ymlisoft/kkfileview:4.4.0-12
 #onlyoffice/documentserver:9.4.0
-hashicorp/vault:2.0.2
+#hashicorp/vault:2.0.2
