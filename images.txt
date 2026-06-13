@@ -51,4 +51,5 @@ registry.k8s.io/ingress-nginx/controller:v1.13.8
 
 
 #ymlisoft/kkfileview:4.4.0-12
-onlyoffice/documentserver:9.4.0
+#onlyoffice/documentserver:9.4.0
+hashicorp/vault:2.0.2
